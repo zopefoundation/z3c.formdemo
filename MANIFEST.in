@@ -1,0 +1,15 @@
+include *.py
+include *.txt
+include buildout.cfg
+recursive-include src *.cfg
+recursive-include src *.css
+recursive-include src *.csv
+recursive-include src *.gfd
+recursive-include src *.gif
+recursive-include src *.grl
+recursive-include src *.jpg
+recursive-include src *.js
+recursive-include src *.png
+recursive-include src *.pt
+recursive-include src *.txt
+recursive-include src *.zcml
