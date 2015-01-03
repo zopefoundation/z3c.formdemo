@@ -25,8 +25,8 @@ Running the Demo out of the box
 
 You can also run the demo directly without manually installing Zope 3::
 
-  $ svn co svn://svn.zope.org/repos/main/z3c.formdemo/trunk formdemo
-  $ cd formdemo
+  $ git clone https://github.com/zopefoundation/z3c.formdemo
+  $ cd z3c.formdemo
   $ python bootstrap.py
   $ ./bin/buildout
   $ ./bin/demo fg
