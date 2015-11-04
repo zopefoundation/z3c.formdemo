@@ -5,6 +5,8 @@ CHANGES
 2.1.2 (unreleased)
 ------------------
 
+- Standardize namespace __init__
+
 - works with zope.app.securitypolicy 3.5.2
 
 
